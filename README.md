@@ -1,2 +1,4 @@
 # Ai-projekt
-# Vad handlar projektet om?
+# Vad har jag gjort?
+Jag har gjort två saker under det här projektet där den första är att tränna en Ai att skapa nya bilder av superskurkar. Det gjorde jag med hjälp av https://colab.research.google.com/drive/1zPmnBwNix4wSARUZ9izE92t6TjzVqN2P som är en kod skapad av Joakim Flink, men baserad på Nathan Glover kod. I den andra delen av projektet har jag gjort en Ai som skapar bakgrundshistoria till superskurkar. Detta har jag gjort med hjälp av https://colab.research.google.com/drive/1OG1HxBMdIMyWfc0qP2rz6tvQwtx9Gikn som är gjord av Max Woolf.
+#
