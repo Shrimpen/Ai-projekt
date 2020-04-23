@@ -9,7 +9,7 @@ Jag tycker det absolut viktigaste när du börjar är att välja ett ämne som d
 För att skapa texter använder du dig av https://colab.research.google.com/drive/1hjsf_dBzKRA0MZrod-bkL0X8CgiJQWjT. Instruktionerna finns i colaben. 
 # Viktigt att tänka på när man skapar texter
 Det viktigaste att tänka på när man ska göra en Ai för texter är att den text filen man laddar in och försöker träna på är bra. Det var där jag fick lite problem eftersom jag inte granskade filen efter jag hade laddat upp den till colaben. För att då fixa problemet så öppnade jag min text file i colaben och kollade så att det inte hade skapats några konstiga tecken. Om det finns något konstigt är det bara att ta bort det. Resten tyckte jag gick lätt om man bara följer instruktionerna.
-# Resultat/Viktigt att tänka på
+# Resultat/Problem
 Jag blev ganska nöjd med resulatet i både bild skapandet och text skapandet. Problemet med bild generatorn är att jag använde alldeles för lite bilder vilket leder till att den återskapar rättså liknande varianter av orginalet. Det är också vissa bilder som har en backrunds färg vilket också påverkade resultatet. När det kommer till text skapande så är Ai inte så jätte bra med namn vilket kan ledda till att backstoryn handlar om flera personer samtidigt. Detta skulle kunna gå att fixa om jag använde mig av en annan text generator, tex Bert men det fanns ingen tid till det. Man skulle också behöva en större mängd data när man gör texterna för att få ett bättre resultat. 
 
 Resultat bilder: https://drive.google.com/file/d/1AcT10huL-i6B-T4n-SeJnzv9J-3cjiHe/view?usp=sharing
